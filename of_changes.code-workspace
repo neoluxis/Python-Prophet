@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"donjayamanne.python-extension-pack",
+			"fabioz.vscode-pydev"
+		]
+	}
+}
